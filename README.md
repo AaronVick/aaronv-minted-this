@@ -1,10 +1,10 @@
 <img src='https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ae8ded7a-9b92-46ca-a19a-03f7014ac600/rectcrop3'/>
 
-# 0xdesigner.eth minted this
+# aaronv.eth minted this
 
-a simple script that uses zora api + neynar to check what kind of cool shit @0xdesigner minted on zora.
+a simple script that uses zora api + neynar to check what kind of cool shit @aaronv minted on zora.
 
-built by [@undefined](https://warpcast.com/undefined) for fun because of [this](https://warpcast.com/0xdesigner/0x35c15faa).
+I forked the repository built by [@undefined](https://warpcast.com/undefined) for fun because of [this](https://warpcast.com/0xdesigner/0x35c15faa).
 
 [🔗 @0xdesignerminted bot on warpcast](https://warpcast.com/0xdesignerminted)
 
@@ -31,7 +31,7 @@ developing stuff in web3 for around 9 years, i still think one of the hardest sh
 
 ### ❓ why no database?
 
-it's just for 0xdesigner's custom niche case. if you wanna build on top of this go ahead.
+it's just for 0xdesigner's custom niche case which I then forked. if you wanna build on top of this go ahead.
 
 ### ❓ the code looks too hacky?
 
